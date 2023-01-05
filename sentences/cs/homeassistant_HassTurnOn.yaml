@@ -2,4 +2,5 @@ language: cs
 intents:
   HassTurnOn:
     data:
-    - sentences: []
+    - sentences:
+          - "turn on <name>"
